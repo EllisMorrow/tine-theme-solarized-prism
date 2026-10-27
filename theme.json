@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.ellismorrow.theme.solarized",
+  "name": "Solarized · Prism",
+  "version": "0.1.1",
+  "apiVersion": "0.2",
+  "description": "A complete light and dark Solarized palette for Tine, carrying its measured blue-green foundations and balanced accents between daylight and dusk.",
+  "author": "EllisMorrow",
+  "license": "MIT",
+  "source": "https://github.com/EllisMorrow/tine-theme-solarized-prism",
+  "modes": {
+    "light": {
+      "--ls-active-primary-color": "#268bd2",
+      "--ls-primary-background-color": "#fdf6e3",
+      "--ls-secondary-background-color": "#eee8d5",
+      "--ls-tertiary-background-color": "#e6dfc8",
+      "--ls-quaternary-background-color": "#ddd6bf",
+      "--ls-primary-text-color": "#4b6269",
+      "--ls-secondary-text-color": "#657b83",
+      "--ls-title-text-color": "#4b6269",
+      "--ls-link-text-color": "#2074af",
+      "--ls-link-text-hover-color": "#586e75",
+      "--ls-tag-text-color": "#6468b5",
+      "--ls-border-color": "rgba(88, 110, 117, 0.20)",
+      "--ls-guideline-color": "rgba(88, 110, 117, 0.24)",
+      "--ls-block-highlight-color": "#eee8d5",
+      "--ls-block-bullet-color": "#586e75",
+      "--ls-selection-background-color": "#eee8d5",
+      "--ls-page-inline-code-bg-color": "#eee8d5",
+      "--ls-page-inline-code-color": "#4b6269",
+      "--ls-page-mark-bg-color": "#eee8d5",
+      "--ls-page-mark-color": "#556a70",
+      "--ls-a-chosen-bg": "#eee8d5"
+    },
+    "dark": {
+      "--ls-active-primary-color": "#2aa198",
+      "--ls-primary-background-color": "#002b36",
+      "--ls-secondary-background-color": "#073642",
+      "--ls-tertiary-background-color": "#0b3d49",
+      "--ls-quaternary-background-color": "#164653",
+      "--ls-primary-text-color": "#839496",
+      "--ls-secondary-text-color": "#93a1a1",
+      "--ls-title-text-color": "#93a1a1",
+      "--ls-link-text-color": "#2aa198",
+      "--ls-link-text-hover-color": "#93a1a1",
+      "--ls-tag-text-color": "#b58900",
+      "--ls-border-color": "rgba(147, 161, 161, 0.18)",
+      "--ls-guideline-color": "rgba(147, 161, 161, 0.22)",
+      "--ls-block-highlight-color": "#073642",
+      "--ls-block-bullet-color": "#839496",
+      "--ls-selection-background-color": "#164653",
+      "--ls-page-inline-code-bg-color": "#073642",
+      "--ls-page-inline-code-color": "#93a1a1",
+      "--ls-page-mark-bg-color": "#164653",
+      "--ls-page-mark-color": "#caab49",
+      "--ls-a-chosen-bg": "#073642"
+    }
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/EllisMorrow/tine-theme-solarized-prism/6b9858181b45187e65a4a7f8c9dd5db4ac37b3b6/docs/solarized-dark.png",
+    "https://raw.githubusercontent.com/EllisMorrow/tine-theme-solarized-prism/6b9858181b45187e65a4a7f8c9dd5db4ac37b3b6/docs/solarized-light.png"
+  ],
+  "portedFrom": {
+    "ecosystem": "other",
+    "name": "Solarized",
+    "source": "https://github.com/altercation/solarized",
+    "revision": "62f656a02f93c5190a8753159e34b385588d5ff3",
+    "license": "MIT",
+    "authors": [
+      "Ethan Schoonover"
+    ],
+    "relationship": "behavioral-port"
+  },
+  "aiDevelopment": "primary"
+}
