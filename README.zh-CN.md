@@ -8,6 +8,8 @@
 
 Solarized 将原生浅色与深色并置：温润象牙白与深蓝绿相映，再以克制的蓝、青、黄、紫平衡全页。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Solarized · Prism 深色模式实拍](docs/solarized-dark.png)

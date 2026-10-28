@@ -15,6 +15,8 @@
 
 Solarized pairs its original light and dark modes: warm ivory and deep blue-green, balanced by measured blue, cyan, yellow and violet accents.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Solarized · Prism in Tine dark mode](docs/solarized-dark.png)
